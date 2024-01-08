@@ -14,7 +14,7 @@ export const LifeList = [
   {
     name: <a href= "https://my-second-webpage-design-using-css-html.vercel.app/">ThinkfulCupid App </a>,
     image: ThinkfulCupid,
-    description: "Achieved a frontend lookalike of OkCupid static website project with responsive views for mobile, tablets, and desktops. Leveraged Flexbox, CSS, and HTML for website layouts.s"
+    description: "Achieved a frontend lookalike of OkCupid static website project with responsive views for mobile, tablets, and desktops. Leveraged Flexbox, CSS, and HTML for website layouts."
   },
   {
     name: <a href= "https://flashcard-app-ani1.onrender.com">Flashcard App </a>,
