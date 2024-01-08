@@ -3,6 +3,7 @@ import FlashcardApp from "../assets/FlashcardApp.png";
 import RecipeTrackingApp from "../assets/RecipeTrackingApp.png";
 import LocalLibaray from "../assets/LocalLibaray.png";
 import ThinkfulCupid from "../assets/ThinkfulCupid.png";
+import Grubdash from "../assets/GrubDashProjectBackend.png";
 
 export const LifeList = [
   {
@@ -26,9 +27,14 @@ export const LifeList = [
     description: "Created a Recipe Tracking App by implementing React components using React, HTML5, CSS, and Bootstrap to build a React application allowing user(s) to save recipe information.",
   },
   {
-    name: <a href= "https://yl4322.github.io/Project-Two-LocalLib/">Local Libray </a>,
+    name: <a href= "https://yl4322.github.io/Project-Two-LocalLib/">Local Libray</a>,
     image: LocalLibaray,
     description: "Created search and sorting functions to allow users to know what books were available and their rating. Coded using JavaScript functions that are built to enable the expansion of the library with little to no need for code refactoring.",
+  },
+  {
+    name: <a href= "https://github.com/yl4322/GrubDash-Thinkful-BackendProject/tree/main">GrubDash Backend</a>,
+    image: Grubdash,
+    description: "Added handlers and middleware functions to create, read, update, and list dishes & list orders.",
   },
 
 ];
