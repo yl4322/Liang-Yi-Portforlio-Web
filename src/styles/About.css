@@ -8,13 +8,14 @@
 }
 
 .about img {
- height: 50vh;
+ height: 40vh;
 }
 
 .about p {
  padding-left:20px;
  padding-right:20px;
 }
+
 
 .aboutTop {
   max-width: 100%;

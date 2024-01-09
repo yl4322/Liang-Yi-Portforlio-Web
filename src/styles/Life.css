@@ -13,7 +13,7 @@
 
 
 .lifeList {
-  width: 70vw;
+  /* width: 70vw; */
   height: 100%;
   display: grid;
   grid-template-columns: 1fr 1fr ;
